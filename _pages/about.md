@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: {{ site.url }}
 order: 1
 ---
 
-I am Manas Bedmutha!
+<!-- I am Manas Bedmutha! -->
