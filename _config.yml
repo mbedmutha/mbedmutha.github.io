@@ -6,17 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Varun Kumar Viswanath
-full_name: Varun Kumar Viswanath
-email: vkviswan@ucsd.edu
-email2: varunknath@gmail.com
+title: Manas Bedmutha
+full_name: Manas Bedmutha
+email: mbedmutha@ucsd.edu
+email2: bedmutha.manas@alumni.iitgn.ac.in
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zuko09.github.io/" # the base hostname & protocol for your site
-github_username:  zuko09
-twitter_username: varunknath
-linkedin_username: varun-viswanath-aab70345
-stackoverflow: 4749362/zuko09
+url: "https://mbedmutha.github.io/" # the base hostname & protocol for your site
+github_username:  mbedmutha
+# twitter_username: varunknath
+linkedin_username: manas-bedmutha
+# stackoverflow: 4749362/zuko09
 include: ['_pages']
 footer-links-active:
   stackoverflow: true
