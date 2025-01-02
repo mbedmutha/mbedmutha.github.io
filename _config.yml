@@ -18,8 +18,8 @@ github_username:  mbedmutha
 linkedin_username: manas-bedmutha
 # stackoverflow: 4749362/zuko09
 include: ['_pages']
-footer-links-active:
-  stackoverflow: true
+# footer-links-active:
+#   stackoverflow: true
 
 # Build settings
 markdown: kramdown

@@ -2,10 +2,12 @@
 layout: page
 title: Research
 permalink: /research/
-order: 3
+order: 1
 ---
 
-Work in progress, coming soon!
+I am broadly interested in social communication analysis and machine learning in ubiquitous contexts.
+
+Check out my [Google Scholar]() for latest set of publications.
 
 <!-- I am broadly interested in wearable health data analysis and deep learning in ubiquitous health contexts. 
 
