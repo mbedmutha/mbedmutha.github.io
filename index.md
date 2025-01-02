@@ -19,7 +19,7 @@ The seeds of interdisciplinary research and user focused design were founded in 
 
 I maintain a list of my publications under the [Research]({{ site.url }}/research) tab. 
 
-[CV / Resume]({{ site.url }}/assets/ManasBedmutha_6DEC.pdf), [Google Scholar](https://scholar.google.com/citations?user=pQatwE0AAAAJ), 
+[CV / Resume]({{ site.url }}/assets/ManasBedmutha_1JAN.pdf), [Google Scholar](https://scholar.google.com/citations?user=pQatwE0AAAAJ), 
 Email ID: [mbedmutha@ucsd.edu](mailto:mbedmutha@ucsd.edu)  
 
 #### Updates
@@ -31,12 +31,12 @@ Email ID: [mbedmutha@ucsd.edu](mailto:mbedmutha@ucsd.edu)
 
   <tr>
     <td><b>Dec 2024:</b></td>
-    <td> Our three stage study on sensing social signals and tracking implicit bias in doctor-patient conversations is now published at <i><a href="https://academic.oup.com/jamiaopen/article/7/4/ooae106/7826763">JAMIA Open</a></i></td>
+    <td> Our three stage study on sensing social signals and identifying implicit bias in doctor-patient conversations is now published at <i><a href="https://academic.oup.com/jamiaopen/article/7/4/ooae106/7826763">JAMIA Open</a></i></td>
   </tr>
 
   <tr>
     <td><b>May 2024:</b></td>
-    <td><i><a href="https://dl.acm.org/doi/10.1145/3613904.3641998">ConverSense</a></i> comes to CHI 2024.</td>
+    <td><i><a href="https://dl.acm.org/doi/10.1145/3613904.3641998">ConverSense</a></i> comes to CHI 2024. Also check our work on <i><a href="https://dl.acm.org/doi/full/10.1145/3613904.3642756">designing interfaces to communicate bias</a></i>.</td>
   </tr>
 </table>
 
