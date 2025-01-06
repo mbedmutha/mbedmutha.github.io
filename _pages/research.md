@@ -5,9 +5,43 @@ permalink: /research/
 order: 1
 ---
 
-I am broadly interested in social communication analysis and machine learning in ubiquitous contexts.
+I am broadly interested in social communication analysis and machine learning in ubiquitous contexts. Check out my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=pQatwE0AAAAJ&sortby=pubdate) for latest set of publications. Here are selected representative publications.
 
-Check out my [Google Scholar]() for latest set of publications.
+### Social Signal Processing
+
+* [ConverSense: An Automated Approach to Assess Patient-Provider Interactions using Social Signals](https://dl.acm.org/doi/full/10.1145/3613904.3641998)
+<i>Manas Satish Bedmutha</i>, Anuujin Tsedenbal, Kelly Tobar, Sarah Borsotto, Kimberly R Sladek, Deepansha Singh, Reggie Casanova-Perez, Emily Bascom, Brian Wood, Janice Sabin, Wanda Pratt, Andrea Hartzler, and Nadir Weibel.
+**CHI 2024**
+
+* [Toward Automated Detection of Biased Social Signals from the Content of Clinical Conversations](https://arxiv.org/abs/2407.17477)
+Feng Chen, <i>Manas Satish Bedmutha</i>, Ray-Yuan Chung, Janice Sabin, Wanda Pratt, Brian R. Wood, Nadir Weibel, Andrea L. Hartzler, and Trevor Cohen
+**AMIA Annual Symposium 2024**
+
+### Feedback Design and Visualization
+
+* [Artificial intelligence-generated feedback on social signals in patient–provider communication: technical performance, feedback usability, and impact](https://academic.oup.com/jamiaopen/article/7/4/ooae106/7826763)
+<i>Manas Satish Bedmutha</i>, Emily Bascom, Kimberly R Sladek, Kelly Tobar, Reggie Casanova-Perez, Alexandra Andreiu, Amrit Bhat, Sabrina Mangal, Brian R Wood, Janice Sabin, Wanda Pratt, Nadir Weibel, and Andrea L Hartzler
+**JAMIA Open 2024**
+
+* [Towards Designing Visualizations to Understand Social Signals in Patient-Provider Communication](https://drive.google.com/file/d/11T86G4Lz6FkLmBm0OxlRYf1GPTGWg5lK/view)
+<i>Manas Satish Bedmutha</i>, Emily Bascom, Reggie Casanova-Perez, Kelly Tobar, Janice Sabin, Wanda Pratt, Brian Wood, Andrea Hartzler, and Nadir Weibel
+Workshop on Interactive Systems in Health (WISH) at **CHI 2023**
+
+* [Designing Communication Feedback Systems To Reduce Healthcare Providers’ Implicit Biases In Patient Encounters](https://dl.acm.org/doi/full/10.1145/3613904.3642756)
+Emily Bascom, Reggie Casanova-Perez, Kelly Tobar, <i>Manas Satish Bedmutha</i>, Harshini Ramaswamy, Wanda Pratt, Janice Sabin, Brian Wood, Nadir Weibel, and Andrea Hartzler.
+**CHI 2024**
+
+### ML/Sensing
+
+* [Privacy-Aware Respiratory Symptom Detection in-the-wild](https://dl.acm.org/doi/abs/10.1145/3594739.3610733)
+<i>Manas Satish Bedmutha</i>, Poorva Satish Bedmutha, Nadir Weibel
+Computing for Wellbeing (WellComp) at **UbiComp/ISWC 2023 (Best Paper)**
+
+* [Towards Enhanced Human Activity Recognition through Natural Language Generation and Pose Estimation](https://arxiv.org/abs/2312.06965)
+Nikhil Kashyap, <i>Manas Satish Bedmutha</i>, Prerit Chaudhary, Brian Wood, Wanda Pratt, Janice Sabin, Andrea Hartzler, and Nadir Weibel.
+Generative AI for Pervasive Computing (GenAI4PC) at **UbiComp/ISWC 2023**
+
+
 
 <!-- I am broadly interested in wearable health data analysis and deep learning in ubiquitous health contexts. 
 
