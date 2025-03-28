@@ -19,7 +19,7 @@ The seeds of interdisciplinary research and user focused design were founded in 
 
 I maintain a list of my publications under the [Research]({{ site.url }}/research) tab. 
 
-[CV / Resume]({{ site.url }}/assets/ManasBedmutha_1JAN.pdf), [Google Scholar](https://scholar.google.com/citations?user=pQatwE0AAAAJ), 
+[CV / Resume]({{ site.url }}/assets/ManasBedmutha_27MAR.pdf), [Google Scholar](https://scholar.google.com/citations?user=pQatwE0AAAAJ), 
 Email ID: [mbedmutha@ucsd.edu](mailto:mbedmutha@ucsd.edu)  
 
 #### Updates
