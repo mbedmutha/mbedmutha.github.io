@@ -1,8 +1,8 @@
 ---
 layout: page
 title: CV
-permalink: /assets/ManasBedmutha_27MAR.pdf
+permalink: /assets/ManasBedmutha_9APR.pdf
 order: 2
 ---
 
-[Resume]({{ site.url }}/assets/ManasBedmutha_27MAR.pdf)
+[Resume]({{ site.url }}/assets/ManasBedmutha_9APR.pdf)
